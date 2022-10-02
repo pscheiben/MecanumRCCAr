@@ -3,3 +3,4 @@
 - Hand gesture control
 - Mobile application design
 - Sensors and feedbacks
+- Need LICENCE.md
