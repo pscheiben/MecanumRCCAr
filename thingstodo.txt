@@ -1,0 +1,5 @@
+- More explanation about the code
+- Battery management system
+- Hand gesture control
+- Mobile application design
+- Sensors and feedbacks
